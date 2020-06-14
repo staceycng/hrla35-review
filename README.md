@@ -32,6 +32,6 @@ As of right now there are only 3 pokemon displayed on the static mockup.html and
 
 ### Step 4
 
-- On click of the pokemon's name, enable editing through an input field. On 'submit', your component should re-render so the updated name is displayed (hint: UPDATE)
+- On click of the pokemon's name, enable editing through an input field. On 'submit', your component should re-render so the updated name is displayed (hint: PUT/UPDATE)
 - Create a delete button to delete a pokemon. On click of the delete button, the pokemon should be removed from the page (hint: DELETE)
 - Lastly, implement the 'Insert' button so you can add a pokemon to the list (name, type, image) (hint: INSERT INTO)
